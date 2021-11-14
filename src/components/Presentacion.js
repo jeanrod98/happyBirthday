@@ -69,7 +69,7 @@ console.log(confReconocimiento);
                     </button>
                     <p>¡Manten pulsado el boton para hablar!</p>
                   </div>
-                  <p>{transcript}</p>
+                  {/* <p>{transcript}</p> */}
                   </>
                     }
                     </>
